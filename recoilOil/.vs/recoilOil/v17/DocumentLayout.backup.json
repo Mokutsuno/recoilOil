@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project2025\\recoilOil\\recoilOil\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66C52236-269E-9B6F-D12B-B3640209BC26}|Assembly-CSharp.csproj|e:\\project2025\\recoiloil\\recoiloil\\assets\\recoiloil\\scripts\\guncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C52236-269E-9B6F-D12B-B3640209BC26}|Assembly-CSharp.csproj|solutionrelative:assets\\recoiloil\\scripts\\guncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C52236-269E-9B6F-D12B-B3640209BC26}|Assembly-CSharp.csproj|E:\\Project2025\\recoilOil\\recoilOil\\assets\\recoiloil\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C52236-269E-9B6F-D12B-B3640209BC26}|Assembly-CSharp.csproj|solutionrelative:assets\\recoiloil\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gunController.cs",
+              "DocumentMoniker": "E:\\Project2025\\recoilOil\\recoilOil\\Assets\\recoilOil\\scripts\\gunController.cs",
+              "RelativeDocumentMoniker": "Assets\\recoilOil\\scripts\\gunController.cs",
+              "ToolTip": "E:\\Project2025\\recoilOil\\recoilOil\\Assets\\recoilOil\\scripts\\gunController.cs",
+              "RelativeToolTip": "Assets\\recoilOil\\scripts\\gunController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:32:15.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "playerController.cs",
+              "DocumentMoniker": "E:\\Project2025\\recoilOil\\recoilOil\\Assets\\recoilOil\\scripts\\playerController.cs",
+              "RelativeDocumentMoniker": "Assets\\recoilOil\\scripts\\playerController.cs",
+              "ToolTip": "E:\\Project2025\\recoilOil\\recoilOil\\Assets\\recoilOil\\scripts\\playerController.cs",
+              "RelativeToolTip": "Assets\\recoilOil\\scripts\\playerController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:19:21.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
