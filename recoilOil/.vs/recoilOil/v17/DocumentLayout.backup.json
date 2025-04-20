@@ -7,8 +7,32 @@
       "RelativeMoniker": "D:0:0:{66C52236-269E-9B6F-D12B-B3640209BC26}|Assembly-CSharp.csproj|solutionrelative:assets\\recoiloil\\scripts\\guncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{66C52236-269E-9B6F-D12B-B3640209BC26}|Assembly-CSharp.csproj|E:\\Project2025\\recoilOil\\recoilOil\\assets\\recoiloil\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C52236-269E-9B6F-D12B-B3640209BC26}|Assembly-CSharp.csproj|solutionrelative:assets\\recoiloil\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C52236-269E-9B6F-D12B-B3640209BC26}|Assembly-CSharp.csproj|E:\\Project2025\\recoilOil\\recoilOil\\assets\\recoiloil\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C52236-269E-9B6F-D12B-B3640209BC26}|Assembly-CSharp.csproj|solutionrelative:assets\\recoiloil\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C52236-269E-9B6F-D12B-B3640209BC26}|Assembly-CSharp.csproj|E:\\Project2025\\recoilOil\\recoilOil\\assets\\recoiloil\\scripts\\bulletui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C52236-269E-9B6F-D12B-B3640209BC26}|Assembly-CSharp.csproj|solutionrelative:assets\\recoiloil\\scripts\\bulletui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C52236-269E-9B6F-D12B-B3640209BC26}|Assembly-CSharp.csproj|E:\\Project2025\\recoilOil\\recoilOil\\assets\\recoiloil\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C52236-269E-9B6F-D12B-B3640209BC26}|Assembly-CSharp.csproj|solutionrelative:assets\\recoiloil\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{66C52236-269E-9B6F-D12B-B3640209BC26}|Assembly-CSharp.csproj|E:\\Project2025\\recoilOil\\recoilOil\\assets\\recoiloil\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66C52236-269E-9B6F-D12B-B3640209BC26}|Assembly-CSharp.csproj|solutionrelative:assets\\recoiloil\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C52236-269E-9B6F-D12B-B3640209BC26}|Assembly-CSharp.csproj|E:\\Project2025\\recoilOil\\recoilOil\\assets\\recoiloil\\scripts\\cartridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C52236-269E-9B6F-D12B-B3640209BC26}|Assembly-CSharp.csproj|solutionrelative:assets\\recoiloil\\scripts\\cartridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C52236-269E-9B6F-D12B-B3640209BC26}|Assembly-CSharp.csproj|E:\\Project2025\\recoilOil\\recoilOil\\assets\\recoiloil\\scripts\\idamagable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C52236-269E-9B6F-D12B-B3640209BC26}|Assembly-CSharp.csproj|solutionrelative:assets\\recoiloil\\scripts\\idamagable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +42,92 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "E:\\Project2025\\recoilOil\\recoilOil\\Assets\\recoilOil\\scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\recoilOil\\scripts\\Bullet.cs",
+              "ToolTip": "E:\\Project2025\\recoilOil\\recoilOil\\Assets\\recoilOil\\scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\recoilOil\\scripts\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T03:46:09.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDamagable.cs",
+              "DocumentMoniker": "E:\\Project2025\\recoilOil\\recoilOil\\Assets\\recoilOil\\scripts\\IDamagable.cs",
+              "RelativeDocumentMoniker": "Assets\\recoilOil\\scripts\\IDamagable.cs",
+              "ToolTip": "E:\\Project2025\\recoilOil\\recoilOil\\Assets\\recoilOil\\scripts\\IDamagable.cs",
+              "RelativeToolTip": "Assets\\recoilOil\\scripts\\IDamagable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T03:40:49.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "enemyController.cs",
+              "DocumentMoniker": "E:\\Project2025\\recoilOil\\recoilOil\\Assets\\recoilOil\\scripts\\enemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\recoilOil\\scripts\\enemyController.cs",
+              "ToolTip": "E:\\Project2025\\recoilOil\\recoilOil\\Assets\\recoilOil\\scripts\\enemyController.cs",
+              "RelativeToolTip": "Assets\\recoilOil\\scripts\\enemyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:47:03.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BulletUI.cs",
+              "DocumentMoniker": "E:\\Project2025\\recoilOil\\recoilOil\\Assets\\recoilOil\\scripts\\BulletUI.cs",
+              "RelativeDocumentMoniker": "Assets\\recoilOil\\scripts\\BulletUI.cs",
+              "ToolTip": "E:\\Project2025\\recoilOil\\recoilOil\\Assets\\recoilOil\\scripts\\BulletUI.cs",
+              "RelativeToolTip": "Assets\\recoilOil\\scripts\\BulletUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T15:21:29.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cartridge.cs",
+              "DocumentMoniker": "E:\\Project2025\\recoilOil\\recoilOil\\Assets\\recoilOil\\scripts\\Cartridge.cs",
+              "RelativeDocumentMoniker": "Assets\\recoilOil\\scripts\\Cartridge.cs",
+              "ToolTip": "E:\\Project2025\\recoilOil\\recoilOil\\Assets\\recoilOil\\scripts\\Cartridge.cs",
+              "RelativeToolTip": "Assets\\recoilOil\\scripts\\Cartridge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T07:51:28.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "playerController.cs",
+              "DocumentMoniker": "E:\\Project2025\\recoilOil\\recoilOil\\Assets\\recoilOil\\scripts\\playerController.cs",
+              "RelativeDocumentMoniker": "Assets\\recoilOil\\scripts\\playerController.cs",
+              "ToolTip": "E:\\Project2025\\recoilOil\\recoilOil\\Assets\\recoilOil\\scripts\\playerController.cs",
+              "RelativeToolTip": "Assets\\recoilOil\\scripts\\playerController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvwMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T02:46:41.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "E:\\Project2025\\recoilOil\\recoilOil\\Assets\\recoilOil\\scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\recoilOil\\scripts\\UIManager.cs",
+              "ToolTip": "E:\\Project2025\\recoilOil\\recoilOil\\Assets\\recoilOil\\scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\recoilOil\\scripts\\UIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T15:15:03.044Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,22 +136,9 @@
               "RelativeDocumentMoniker": "Assets\\recoilOil\\scripts\\gunController.cs",
               "ToolTip": "E:\\Project2025\\recoilOil\\recoilOil\\Assets\\recoilOil\\scripts\\gunController.cs",
               "RelativeToolTip": "Assets\\recoilOil\\scripts\\gunController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAIwGYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T06:32:15.693Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "playerController.cs",
-              "DocumentMoniker": "E:\\Project2025\\recoilOil\\recoilOil\\Assets\\recoilOil\\scripts\\playerController.cs",
-              "RelativeDocumentMoniker": "Assets\\recoilOil\\scripts\\playerController.cs",
-              "ToolTip": "E:\\Project2025\\recoilOil\\recoilOil\\Assets\\recoilOil\\scripts\\playerController.cs",
-              "RelativeToolTip": "Assets\\recoilOil\\scripts\\playerController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBIAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T06:19:21.266Z",
+              "WhenOpened": "2025-04-18T02:27:43.447Z",
               "EditorCaption": ""
             }
           ]
